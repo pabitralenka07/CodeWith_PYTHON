@@ -1,0 +1,12 @@
+When writing an abstract for a seminar, it is important to follow a clear and structured format. The first step is to
+ensure that the topic title appears at the top of the page, centered, and formatted in uppercase letters with a 14-
+point font size. for clarity and emphasis. The abstract heading itself should follow the topic title, also centered,
+and written in 12-point font size to maintain consistency. The body of the abstract should be written in a 10-point
+font size and justified alignment, ensuring that the text flows evenly across the page without any irregular spacing.
+The content of the abstract should be concise, typically between 200 to 300 words, and written as a single
+paragraph. It should provide a brief summary of the research or discussion, outlining the purpose, methods, results,
+and conclusions of the study without delving into excessive detail. This structured approach ensures that the
+abstract is both professional and easy to read, giving readers a quick and clear understanding of the topic at hand.
+You are required to use either Arial or Times New Roman font for your document. The topic should focus on
+recent advancements in trending technologies, such as Artificial Intelligence (AI), blockchain, quantum
+computing, or the Internet of Things (IoT). Lastly, in the keyword section, include the important keywords from

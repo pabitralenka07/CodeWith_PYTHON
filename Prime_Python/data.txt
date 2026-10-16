@@ -1,0 +1,2 @@
+Python has gained widespread use in the machine learning community.[42][43][44][45] It is widely taught as an introductory programming language.[46] Since 2003, Python has consistently ranked in the top ten of the most popular programming languages in the TIOBE Programming Community Index, which ranks based on searches in 24 platforms.
+
